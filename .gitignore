@@ -5,4 +5,11 @@ build
 *.xcodeproj/xcuserdata
 fmdb.xcodeproj/*.mode1v3
 *.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcshareddata/
 fmdb.xcodeproj/project.xcworkspace
+
+staticProject/FMDB-staticlib/build/*
+staticProject/FMDB-staticlib/dist/*
+staticProject/FMDB-staticlib/*.a
+
+
